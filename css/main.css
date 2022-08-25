@@ -762,7 +762,7 @@ label, legend {
     font-weight: bold;
     margin-bottom: .9rem;
     line-height: 1.714;
-    color: #000000;
+    color: #FFFFFF;
     display: block;
 }
 
@@ -3139,7 +3139,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .contact-primary {
-    width: 65%;
+    width: 64%;
 }
 
 .contact-primary #contactForm {
@@ -3147,13 +3147,13 @@ html.no-csstransitions .home-content__main {
 }
 
 .contact-secondary {
-    width: 35%;
+    width: 36%;
 }
 
 .contact-secondary::before {
     content: "";
     display: block;
-    width: 35%;
+    width: 36%;
     position: absolute;
     top: 0;
     bottom: 0;
@@ -3432,10 +3432,10 @@ footer .row {
     padding: 0;
     outline: 0;
     border: none;
-    width: 85px;
-    height: 28px;
-    background: url("../images/logo-footer.png") no-repeat center;
-    background-size: 85px 28px;
+    width: 60px;
+    height: 75px;
+    background: url("../images/delicious-emblem.png") no-repeat center;
+    background-size: 60px 75px;
     font: 0/0 a;
     text-shadow: none;
     color: transparent;
