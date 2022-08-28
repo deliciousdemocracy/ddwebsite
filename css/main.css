@@ -3410,6 +3410,11 @@ footer .row {
     max-width: 980px;
 }
 
+footer p{
+    color: #B09BE8;
+    font-family: "montserrat-medium", sans-serif;
+}
+
 
 /* --------------------------------------------------------------- 
  * ## footer main
